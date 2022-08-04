@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "xpfactory:tier2_xp_bottle"
+    }
+  },
+  "result": {
+    "item": "xpfactory:tier3_xp_bottle"
+  }
+}
